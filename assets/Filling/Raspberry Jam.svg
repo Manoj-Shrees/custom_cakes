@@ -1,0 +1,55 @@
+<svg viewBox="0 0 329 417" xmlns="http://www.w3.org/2000/svg">
+    <title>Raspberry Jam</title>
+    <g data-name="Layer 2" id="Layer_2">
+        <g data-name="Layer 1" id="Layer_1-2">
+            <path
+                d="M289,122.52V348a40.27,40.27,0,0,1-40.27,40.27H80.26A40.26,40.26,0,0,1,40,348V122.52A40.26,40.26,0,0,1,80.26,82.25c13.82,0,30.84-3.21,33.91-19.5H214.83c-.56,0,3.76,8.47,4.3,9.15A28.15,28.15,0,0,0,226.06,78c7.2,4.5,14.55,4.27,22.67,4.27A40.27,40.27,0,0,1,289,122.52Z"
+                fill="#d8d8d8" />
+            <rect fill="#f3c366" height="34" rx="17" width="167" x="81" y="28.75" />
+            <rect fill="#f47b50" height="184" width="249" x="40" y="138.25" />
+            <path
+                d="M189,227.3c8.13-24.47,1.92-50.8-14.4-72.35-21,8.76-37.39,24.6-44.4,45.69-8.13,24.47-1.92,50.81,14.4,72.35C165.66,264.23,182,248.39,189,227.3Z"
+                fill="#108848" />
+            <path
+                d="M128.22,220.82c21.4,8.13,36,27.18,41.71,50.49-17.82,9.55-37.91,11.94-56.35,4.93-21.4-8.14-36-27.18-41.7-50.49C89.69,216.2,109.78,213.81,128.22,220.82Z"
+                fill="#669940" />
+            <circle cx="239.19" cy="237.13" fill="#ab0c57" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="152.44" cy="271.6" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="158.09" cy="256.6" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="167.04" cy="278.16" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="171.89" cy="233.2" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="185.41" cy="278.74" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="173.73" cy="255.95" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="209.17" cy="279.55" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="190.85" cy="215.41" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="197.16" cy="259.91" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="190.27" cy="233.78" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="229.52" cy="219.63" fill="#ab0c57" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="240.62" cy="260.79" fill="#ab0c57" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="214.14" cy="205.04" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="212.46" cy="218.54" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="233.65" cy="276.3" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="223.88" cy="256.56" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <circle cx="217.35" cy="239.38" fill="#c30055" r="16.5" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="2" />
+            <rect fill="none" height="417" width="329" />
+        </g>
+    </g>
+</svg>
